@@ -1,4 +1,2 @@
----
-title: Welcome to my first title
----
-
+title: "Testing title"
+date: 2024-08-12
